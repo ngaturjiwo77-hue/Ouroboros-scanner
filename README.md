@@ -1,12 +1,18 @@
 # 🐍 Ouroboros Code Scanner (Lite Version)
-This is the Lite version of the Ouroboros Static Analysis Tool. It includes the basic `Brain` module for syntax mapping and function detection.
+AI-Powered Code Security Scanner - Web App + PWA.
 
-### ⚠️ LOOKING FOR THE FULL BUG BOUNTY WEAPON?
-The Lite version DOES NOT include vulnerability detection. 
-To get the **Ouroboros Premium Version**, which includes:
-- 🧠 **Neural Link Engine:** Automatically constructs Input-to-Sink Exploit Chains (RCE, LFI, SQLi).
-- 👁️ **Semantic Engine:** Understands the danger context of the code.
-- 🔮 **Zero-Day Soul Engine:** Detects anomalous logic flows.
-- 🕸️ **Neural Network & Cortex:** Deep code graphing.
+## 🌐 Live Demo (Lite)
+https://ngaturjiwo77-hue.github.io/ouroboros-scanner
 
-🛒 **[GET THE FULL PREMIUM VERSION HERE ON SELLANYCODE] (https://www.sellanycode.com/item.php?id=27442)**
+## ⚠️ LOOKING FOR THE FULL BUG BOUNTY WEAPON?
+Versi Lite ini HANYA memetakan fungsi dasar dan sintaks. Untuk perlindungan penuh dan perburuan Bug Bounty, dapatkan **Ouroboros Premium Version** yang dilengkapi dengan:
+- 🧠 **Neural Link Engine:** Deteksi rantai RCE, LFI, dan Command Injection (Level 10/10).
+- 👁️ **Semantic Engine:** Analisis konteks bahaya secara presisi.
+- 🔮 **Zero-Day Soul Engine:** Berburu anomali logika.
+
+🛒 **[DAPATKAN OUROBOROS PREMIUM DI SINI (SellAnyCode)](https://www.sellanycode.com/item.php?id=27442)**
+
+## Features (Premium)
+- 62,000+ detection rules
+- Advanced Threat Intelligence
+- Real-time Exploit Chain Mapping
