@@ -9,4 +9,4 @@ To get the **Ouroboros Premium Version**, which includes:
 - 🔮 **Zero-Day Soul Engine:** Detects anomalous logic flows.
 - 🕸️ **Neural Network & Cortex:** Deep code graphing.
 
-🛒 **[GET THE FULL PREMIUM VERSION HERE ON SELLANYCODE] https://www.sellanycode.com/item.php?id=27442 **
+🛒 **[GET THE FULL PREMIUM VERSION HERE ON SELLANYCODE] (https://www.sellanycode.com/item.php?id=27442)**
